@@ -53,9 +53,13 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hidaytrahman" alt="GitHub Stats" /> <br/><br/>
-  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hidaytrahman" alt="WakaTime" />
-  </p>
+</p>
+  <p align="center" style="text-align:center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true&theme=radical)](https://github.com/hidaytrahman/github-readme-stats)
+
+</p>
+
 </div>
 
 <br />
