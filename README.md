@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hidayt Rahman | Bio Banner](banner.png)
 
 <h2>I'm Hidayt Rahman! 👋</h2>
 
