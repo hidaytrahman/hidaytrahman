@@ -30,8 +30,8 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <br />
 
 <h2>Open Source Projects</h2>
-<div>
-  <p>
+<div style="display:flex; flex-wrap=wrap">
+  <p style="margin-right: 5px">
     <a href="https://github.com/hidaytrahman/penless-todo" style="width: 100%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=penless-todo&show_owner=True" alt="GitHub Stats" />
     </a>
@@ -54,11 +54,11 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hidaytrahman" alt="GitHub Stats" /> <br/><br/>
 </p>
-  <p align="center" style="text-align:center">
+  <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true&theme=radical)](https://github.com/hidaytrahman/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true)](https://github.com/hidaytrahman/github-readme-stats)
 
-</p>
+</div>
 
 </div>
 
