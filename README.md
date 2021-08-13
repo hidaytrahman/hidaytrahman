@@ -79,7 +79,19 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
     </a>
   </p>
 
-  <p>
+  <p style="margin-right: 5px">
+    <a href="https://github.com/hidaytrahman/expenseSpy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=expenseSpy&show_owner=True" alt="expenseSpy />
+    </a>
+  </p>
+
+   <p style="margin-right: 5px">
+    <a href="https://github.com/hidaytrahman/hotdom">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=hotdom&show_owner=True" alt="hotdom" />
+    </a>
+  </p>
+
+   <p style="margin-right: 5px">
     <a href="https://github.com/hidaytrahman/sassKickstart">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=sassKickstart&show_owner=True" alt="GitHub Stats" />
     </a>
