@@ -15,7 +15,8 @@
     "Worked on development of REST API using ExpressJS and MongoDB"
   ],
   "fav_repos": [
-     "preapi",
+    "preapi",
+    "react-flex-styled",
     "penless-todo",
     "sassKickstart",
     "hotdom",
@@ -62,6 +63,9 @@
       {
         "title": "SASS",
         "badge": "ddd"
+      },
+       {
+        "title": "Typescript"
       }
     ],
     "secondary": [
