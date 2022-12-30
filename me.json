@@ -10,9 +10,12 @@
     "Collaborate with other team members and stakeholders.",
     "Experience in Agile Methodology, Debugging tools like Chrome Dev Tools, Firebug, etc.",
     "I love to share knowledge (New technologies, Best Practices) with team and peers",
-    "Active on github and open source contributions"
+    "Active on github and open source contributions",
+    "Hands On experience in Nodejs Express based application using MongoDB",
+    "Worked on development of REST API using ExpressJS and MongoDB"
   ],
   "fav_repos": [
+     "preapi",
     "penless-todo",
     "sassKickstart",
     "hotdom",
