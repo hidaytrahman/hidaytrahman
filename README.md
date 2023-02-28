@@ -74,8 +74,8 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <h2>Open Source Projects</h2>
 <div style="display:flex; flex-wrap=wrap">
   <p style="margin-right: 5px">
-    <a href="https://github.com/hidaytrahman/penless-todo" style="width: 100%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=penless-todo&show_owner=True" alt="GitHub Stats" />
+    <a href="https://github.com/hidaytrahman/rezume" style="width: 100%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=rezume&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
 
@@ -127,7 +127,7 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 
  Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
-- Read Articles on [Medium](https://hidaytrahman.medium.com/)
+- Read Articles on [Dev.to](https://dev.to/hidaytrahman)
 - Say Hi on [Skype](skype:live:hidaytrahman?cal)
 - Also available on [Twitter](https://twitter.com/hidaytrahman) , [StackOverflow](https://stackoverflow.com/users/2927228/hidayt-rahman) , [Instagram](http://instagram.com/hidaytrahman)
 
