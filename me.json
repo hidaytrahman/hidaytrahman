@@ -1,18 +1,28 @@
 {
   "intro": "I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.",
   "responsibilities": [
-    "Hands-on experience in the latest ReactJS including Typescript.",
-    "Good knowledge of Object Oriented Javascript.",
+    "Develop interactive, user-friendly applications using the latest frameworks Translate designs and wireframes into high quality and responsive screens",
+    "Building reusable components and front-end libraries for future use",
+    "Build few NPM package libraries for React and JavaScript",
+    "Hands on experience with TDD software development",
+    "Hands-on experience in the latest ReactJS, including Typescript,",
+    "Good knowledge of object-oriented Javascript",
     "Develop user-friendly web interfaces to the highest W3C standards.",
     "Develop new user-facing features.",
     "Build reusable code and libraries for future use.",
-    "Optimize application for maximum speed and scalability.",
+"Optimize the application for maximum speed and scalability.",
     "Collaborate with other team members and stakeholders.",
     "Experience in Agile Methodology, Debugging tools like Chrome Dev Tools, Firebug, etc.",
     "I love to share knowledge (New technologies, Best Practices) with team and peers",
     "Active on github and open source contributions",
-    "Hands On experience in Nodejs Express based application using MongoDB",
-    "Worked on development of REST API using ExpressJS and MongoDB"
+    "Hands-on experience in Node.js Express-based applications using MongoDB",
+    "Worked on the development of a REST API using ExpressJS and MongoDB.",
+    "Provide regular technical training to the team and sometimes at the organization level",
+    "Expertise in front-end development, especially JAM stack and knowledge of BEM methodology",
+    "Meeting with clients to discuss requirements and present initial design ideas",
+    "Cooperate with the back-end developer in the process of building the RESTful API",
+    "Passionate and obsessive about quality, efficiency and the customer"
+    
   ],
   "fav_repos": [
     "preapi",
@@ -22,9 +32,9 @@
     "hotdom",
     "expenseSpy"
   ],
-  "domains": "eCommerce,Telecom,Tour and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
+  "domains": "eCommerce,Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
   "quotes": [
-    "I love coding, Photography and Travelling."
+    "I love coding, photography, and traveling."
   ],
   "badges": [
     {
@@ -53,6 +63,12 @@
         "title": "Nodejs"
       },
       {
+        "title": "ReactJS"
+      },
+      {
+        "title": "NextJS"
+      },
+      {
         "title": "HTML5",
         "badge": "ddd"
       },
@@ -75,6 +91,9 @@
       },
       {
         "title": "jQuery",
+        "badge": "ddd"
+      },
+      {  "title": "Github Actions",
         "badge": "ddd"
       },
       {
@@ -125,6 +144,14 @@
       },
       {
         "title": "Angular",
+        "badge": "ddd"
+      },
+      {
+        "title": "NextJS",
+        "badge": "ddd"
+      },
+      {
+        "title": "ExpressJS",
         "badge": "ddd"
       },
       {
