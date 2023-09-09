@@ -1,172 +1,277 @@
 {
-  "intro": "I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.",
-  "responsibilities": [
-    "Develop interactive, user-friendly applications using the latest frameworks.", 
-    "Translate designs and wireframes into high quality and responsive screens",
-    "Building reusable components and front-end libraries for future use",
-    "Build few NPM package libraries for React and JavaScript",
-    "Hands-on experience with TDD software development",
-    "Hands-on experience in the latest ReactJS, including Typescript",
-    "Good knowledge of object-oriented Javascript",
-    "Develop user-friendly web interfaces to the highest W3C standards.",
-    "Develop new user-facing features.",
-    "Build reusable code and libraries for future use.",
-"Optimize the application for maximum speed and scalability.",
-    "Collaborate with other team members and stakeholders.",
-    "Experience in Agile Methodology, Debugging tools like Chrome Dev Tools, Firebug, etc.",
-    "I love to share knowledge (New technologies, Best Practices) with team and peers",
-    "Active on github and open source contributions",
-    "Hands-on experience in Node.js Express-based applications using MongoDB",
-    "Worked on the development of a REST API using ExpressJS and MongoDB.",
-    "Provide regular technical training to the team and sometimes at the organization level",
-    "Expertise in front-end development, especially JAM stack and knowledge of BEM methodology",
-    "Meeting with clients to discuss requirements and present initial design ideas",
-    "Cooperate with the back-end developer in the process of building the RESTful API",
-    "Passionate and obsessive about quality, efficiency and the customer"
-    
-  ],
-  "fav_repos": [
-    "preapi",
-    "react-flex-styled",
-    "penless-todo",
-    "sassKickstart",
-    "hotdom",
-    "expenseSpy"
-  ],
-  "domains": "eCommerce,Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
-  "quotes": [
-    "I love coding, photography, and traveling."
-  ],
-  "badges": [
-    {
-      "title": "Linkedin",
-      "avatar": "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white",
-      "url": "https://www.linkedin.com/in/nishant-kumar-027b5486/?originalSubdomain=in"
-    },
-    {
-      "title": "Facebook",
-      "avatar": "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white",
-      "url": "https://www.facebook.com/Nishant.Kumar337/"
-    },
-    {
-      "title": "Instagram",
-      "avatar": "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
-      "url": "https://www.instagram.com/knishant086/"
-    }
-  ],
-  "skills": {
-    "primary": [
-      {
-        "title": "JavaScript",
-        "badge": "https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"
-      },
-      {
-        "title": "Nodejs"
-      },
-      {
-        "title": "ReactJS"
-      },
-      {
-        "title": "NextJS"
-      },
-      {
-        "title": "HTML5",
-        "badge": "ddd"
-      },
-      {
-        "title": "CSS3",
-        "badge": "ddd"
-      },
-      {
-        "title": "SASS",
-        "badge": "ddd"
-      },
-       {
-        "title": "Typescript"
-      }
-    ],
-    "secondary": [
-      {
-        "title": "Photoshop",
-        "badge": "ddd"
-      },
-      {
-        "title": "jQuery",
-        "badge": "ddd"
-      },
-      {  "title": "Github Actions",
-        "badge": "ddd"
-      },
-      {
-        "title": "WordPress",
-        "badge": "ddd"
-      },
-      {
-        "title": "Mongodb",
-        "badge": "ddd"
-      },
-      {
-        "title": "PHP",
-        "badge": "ddd"
-      },
-      {
-        "title": "Python",
-        "badge": "ddd"
-      },
-      {
-        "title": "Mustachejs",
-        "badge": "ddd"
-      },
-      {
-        "title": "handlebarjs",
-        "badge": "ddd"
-      },
-      {
-        "title": "less",
-        "badge": "ddd"
-      },
-      {
-        "title": "git",
-        "badge": "ddd"
-      },
-      {
-        "title": "docker",
-        "badge": "ddd"
-      },
-      {
-        "title": "CI / CD",
-        "badge": "ddd"
-      }
-    ],
-    "frameworks": [
-      {
-        "title": "React",
-        "badge": "https://img.shields.io/badge/-React-05122A?style=flat&logo=react"
-      },
-      {
-        "title": "Angular",
-        "badge": "ddd"
-      },
-      {
-        "title": "NextJS",
-        "badge": "ddd"
-      },
-      {
-        "title": "ExpressJS",
-        "badge": "ddd"
-      },
-      {
-        "title": "Bootstrap",
-        "badge": "ddd"
-      },
-      {
-        "title": "Express",
-        "badge": "ddd"
-      },
-      {
-        "title": "Material",
-        "badge": "ddd"
-      }
-    ]
-  }
+	"intro": "I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.",
+	"personal": {
+		"languages": [
+			{
+				"title": "English",
+				"level": "expert"
+			},
+			{
+				"title": "Hindi",
+				"level": "expert"
+			},
+			{
+				"title": "Urdu",
+				"level": "beginner"
+			}
+		],
+		"nationality": "indian",
+		"maritalStatus": "unmarried",
+		"hobbies": ["Photography", "Coding", "Travelling"]
+	},
+	"designation": "Technology Lead",
+	"organization": "Infogain",
+	"totalExperience": 10,
+	"location": "Delhi, IND",
+	"education": [
+		{
+			"title": "MASTER IN COMPUTER APPLICATION",
+			"organization": "Pacific Institute of Engineering and Management (PIEM)",
+			"year": "2016",
+			"percentage": 0
+		}
+	],
+	"professional": [
+		{
+			"designation": "TECHNOLOGY LEAD",
+			"organization": "Infogain India Pvt Ltd",
+			"joiningDate": "13 FEB 2023",
+			"lastWorkingDay": "",
+			"location": "Noida",
+			"mode": "WFH",
+			"text": "Currently working for NCR corporation on Money Movement Bill Pay Project."
+		}
+	],
+	"awards": [
+		{
+			"title": "TECHNO MIND",
+			"organization": "Aptech",
+			"date": "2010",
+			"text": ""
+		},
+		{
+			"title": "INNERSOURCE HACKATHON",
+			"organization": "Thales",
+			"date": "2019",
+			"text": "Participated in worldwide hackathon for developing the AI to help the world. Our idea was to save time of organization to check the attacks on IP. We were 11 members in team and developed the application, which checks the infected IP and give alerts. In addition, we added voice feature to execute the app using voice commands."
+		}
+	],
+	"responsibilities": {
+		"highlights": [
+			"Provide regular technical training to the team and sometimes on organization level",
+			"Expertise in front-end development, especially JAM stack and knowledge of BEM methodology",
+			"Meeting with clients to discuss requirements and presenting initial design ideas to client",
+			"Working as part of a multi-disciplinary team",
+			"Understanding and experience with Object-Oriented design and development",
+			"Experience in client communication and working with client on requirements and delivery",
+			"Cooperate with the back-end developer in the process of building the RESTful API",
+			"Strong interpersonal and organizational skills",
+			"A good understanding of website information architecture to create a website.",
+			"To build leading cutting-edge websites to the highest standard and work with creative designers and server-side developers to complete web projects",
+			"Expertise in the Agile Development Methodology",
+			"Team player with good communication skills, able to work effectively within a global team",
+			"Excellent problem-solving skills and ability to think logically",
+			"Work with third party APIs for social and other types of integrations",
+			"Passionate and obsessive about quality, efficiency and the customer",
+			"Monitoring and improving front-end performance."
+		],
+		"frontend": [
+			"Develop interactive, user-friendly applications using the latest frameworks Translate designs and wireframes into high quality and responsive screens",
+			"Develop new user-facing features using React.js",
+			"Building reusable components and front-end libraries for future use",
+			"Worked on PSD to HTML with W3C standard code with developer friendly",
+			"Strong debugging skills on Developer Tools of the browser and Working with Cross Browser UI",
+			"Working with user-friendly web interfaces to the highest W3C standards.",
+			"Understanding of JavaScript fundamentals - Syntax and structures and BOM, DOM",
+			"Understanding of JavaScript fundamentals - Syntax and structures and BOM, DOM",
+			"Worked on NPM package library for the React and JavaScript",
+			"Hands on experience with TDD software development"
+		],
+		"backend": [
+			"Having experience in developing entire app alone including frontend and backend with API Implementation",
+			"Worked on development of REST API using Nodejs, ExpressJS and MongoDB",
+			"Hands on Experience on Authentication and Authorization based API",
+			"Worked on CMS with custom templates development HTML to WordPress"
+		]
+	},
+	"fav_repos": ["preapi", "react-flex-styled", "penless-todo", "sassKickstart", "hotdom", "expenseSpy"],
+	"domains": "eCommerce,Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
+	"quotes": ["I love coding, photography, and traveling."],
+	"badges": [
+		{
+			"title": "Linkedin",
+			"avatar": "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white",
+			"url": "https://www.linkedin.com/in/nishant-kumar-027b5486/?originalSubdomain=in"
+		},
+		{
+			"title": "Facebook",
+			"avatar": "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white",
+			"url": "https://www.facebook.com/Nishant.Kumar337/"
+		},
+		{
+			"title": "Instagram",
+			"avatar": "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
+			"url": "https://www.instagram.com/knishant086/"
+		}
+	],
+	"categories": [
+		"UI/UX",
+		"Tech Lead",
+		"UI Architect",
+		"MERN Stack",
+		"Github Actions",
+		"Integrations",
+		"Unit Testing",
+		"Open Source",
+		"Provide Training",
+		"REST API",
+		"Design System Library",
+
+		"CI & CD"
+	],
+	"skills": {
+		"primary": [
+			{
+				"title": "ReactJS"
+			},
+			{
+				"title": "JavaScript",
+				"badge": "https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"
+			},
+			{
+				"title": "NextJS"
+			},
+			{
+				"title": "Typescript"
+			},
+			{
+				"title": "Nodejs"
+			},
+			{
+				"title": "HTML5",
+				"badge": "ddd"
+			},
+			{
+				"title": "CSS3",
+				"badge": "ddd"
+			},
+			{
+				"title": "SCSS",
+				"badge": "ddd"
+			},
+			{ "title": "Github Actions" }
+		],
+		"secondary": [
+			{
+				"title": "Mongodb",
+				"badge": "ddd"
+			},
+			{
+				"title": "Figma",
+				"badge": "ddd"
+			},
+			{
+				"title": "Photoshop",
+				"badge": "ddd"
+			},
+			{
+				"title": "jQuery",
+				"badge": "ddd"
+			},
+
+			{
+				"title": "WordPress",
+				"badge": "ddd"
+			},
+
+			{
+				"title": "PHP",
+				"badge": "ddd"
+			},
+			{
+				"title": "Python",
+				"badge": "ddd"
+			},
+			{
+				"title": "Mustachejs",
+				"badge": "ddd"
+			},
+			{
+				"title": "handlebarjs"
+			},
+
+			{
+				"title": "Apollo Client"
+			},
+			{
+				"title": "Vercel"
+			},
+			{
+				"title": "GCP Static"
+			}
+		],
+		"frameworks": [
+			{
+				"title": "React",
+				"badge": "https://img.shields.io/badge/-React-05122A?style=flat&logo=react"
+			},
+			{
+				"title": "NextJS",
+				"badge": "ddd"
+			},
+			{
+				"title": "TailwindCSS",
+				"badge": "ddd"
+			},
+			{
+				"title": "ExpressJS",
+				"badge": "ddd"
+			},
+			{
+				"title": "Material UI",
+				"badge": "ddd"
+			},
+			{
+				"title": "Angular",
+				"badge": "ddd"
+			},
+			{
+				"title": "Bootstrap",
+				"badge": "ddd"
+			}
+		],
+		"tools": [
+			{
+				"title": "GraphQL"
+			},
+			{
+				"title": "Agile"
+			},
+			{
+				"title": "Webpack"
+			},
+			{
+				"title": "git"
+			},
+			{
+				"title": "docker",
+				"badge": "ddd"
+			},
+			{
+				"title": "CI / CD"
+			},
+			{
+				"title": "Babel"
+			},
+			{
+				"title": "JIRA / Confluence"
+			},
+			{
+				"title": "Shortcut"
+			}
+		]
+	},
+	"meta": {
+		"greetings": ["Good morning ☀️", "Good afternoon 🌤", "Good evening ⛅"]
+	}
 }
