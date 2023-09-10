@@ -20,8 +20,13 @@
 		"hobbies": ["Photography", "Coding", "Travelling"]
 	},
 	"designation": "Technology Lead",
-	"organization": "Infogain",
+	"organization": {
+		"title": "Infogain",
+		"url": "https://www.infogain.com/",
+		"designation": "Tecnology Lead"
+	},
 	"totalExperience": 10,
+	"greet": "My name is Hidayt, I am a senior front-end developer, and I have {{%totalExperience%}}+ years of experience.",
 	"location": "Delhi, IND",
 	"education": [
 		{
@@ -97,21 +102,33 @@
 	"fav_repos": ["preapi", "react-flex-styled", "penless-todo", "sassKickstart", "hotdom", "expenseSpy"],
 	"domains": "eCommerce,Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
 	"quotes": ["I love coding, photography, and traveling."],
+	"socials": [
+		{
+			"title": "Linkedin",
+			"icon": "LinkedinLogo",
+			"url": "https://www.linkedin.com/in/hidaytrahman/"
+		},
+		{
+			"title": "Github",
+			"icon": "GithubLogo",
+			"url": "https://github.com/hidaytrahman"
+		},
+		{
+			"title": "Medium",
+			"icon": "MediumLogo",
+			"url": "https://hidaytrahman.medium.com/"
+		},
+		{
+			"title": "Instagram",
+			"icon": "InstagramLogo",
+			"url": "https://www.instagram.com/clickimaginehr/"
+		}
+	],
 	"badges": [
 		{
 			"title": "Linkedin",
 			"avatar": "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white",
-			"url": "https://www.linkedin.com/in/nishant-kumar-027b5486/?originalSubdomain=in"
-		},
-		{
-			"title": "Facebook",
-			"avatar": "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white",
-			"url": "https://www.facebook.com/Nishant.Kumar337/"
-		},
-		{
-			"title": "Instagram",
-			"avatar": "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
-			"url": "https://www.instagram.com/knishant086/"
+			"url": ""
 		}
 	],
 	"categories": [
@@ -178,7 +195,9 @@
 				"title": "jQuery",
 				"badge": "ddd"
 			},
-
+			{
+				"title": "GraphQL"
+			},
 			{
 				"title": "WordPress",
 				"badge": "ddd"
@@ -186,6 +205,10 @@
 
 			{
 				"title": "PHP",
+				"badge": "ddd"
+			},
+			{
+				"title": "AEM",
 				"badge": "ddd"
 			},
 			{
@@ -203,9 +226,7 @@
 			{
 				"title": "Apollo Client"
 			},
-			{
-				"title": "Vercel"
-			},
+
 			{
 				"title": "GCP Static"
 			}
@@ -242,13 +263,16 @@
 		],
 		"tools": [
 			{
-				"title": "GraphQL"
+				"title": "Storybook"
 			},
 			{
 				"title": "Agile"
 			},
 			{
 				"title": "Webpack"
+			},
+			{
+				"title": "Vercel"
 			},
 			{
 				"title": "git"
@@ -272,6 +296,16 @@
 		]
 	},
 	"meta": {
-		"greetings": ["Good morning ☀️", "Good afternoon 🌤", "Good evening ⛅"]
+		"greetings": ["Good morning ☀️", "Good afternoon 🌤", "Good evening ⛅"],
+		"weekdaysQuotes": [
+			"Everyone wants me to be a morning person. I could be one, only if morning began after noon, Its Sunday!",
+			"Be a rebel – enjoy Monday. Find a reason to like it.",
+			"monday",
+			"Tuesday is the day I actually start the week, Monday I just deal with the depression of the weekend ending.",
+			"Dear Wednesday, no one likes you. You’re just the ugly cousin of Monday.  – Titteey",
+			"Good morning, Thursday! Let’s make today so productive that we can afford to be lazy tomorrow",
+			"Work starts on Monday. Life begins on Friday.",
+			"I wish that every day was Saturday and every month was October."
+		]
 	}
 }
