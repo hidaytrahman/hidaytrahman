@@ -305,6 +305,56 @@
 			"Good morning, Thursday! Let’s make today so productive that we can afford to be lazy tomorrow",
 			"Work starts on Monday. Life begins on Friday.",
 			"I wish that every day was Saturday and every month was October."
-		]
+		],
+		"story": {
+			"enabled": true,
+			"mode": "story",
+			"modes": ["story", "live"],
+			"config": {
+				"styles": {
+					"background": "pink",
+					"padding": 20
+				}
+			},
+			"list": [
+				{
+					"title": "Building new open source Project - CamCheckMate",
+					"emoji": "🌝",
+					"text": "Developed a web-based tool called the 'Browser Webcam Testing Tool.'",
+					"actions": [
+						{
+							"title": "Check the Demo",
+							"url": "https://camcheckmate.vercel.app/"
+						},
+						{
+							"title": "Acess Repo",
+							"url": "https://github.com/hidaytrahman/camcheckmate"
+						}
+					],
+					"style": {
+						"background": "yellow",
+						"fontSize": "15px"
+					}
+				},
+				{
+					"title": "Working on a platform to get the list of setup for the new machine... :)",
+					"emoji": "👨🏼‍💻",
+					"text": "Code environment basic and required setup for your project or new machine",
+					"actions": [
+						{
+							"title": "Acess Repo",
+							"url": "https://github.com/hidaytrahman/code-env",
+							"buttonProps": {
+								"size": "xlarge"
+							}
+						}
+					],
+					"style": {
+						"background": "#009688",
+						"color": "#ffff"
+					}
+				}
+			]
+		}
 	}
 }
