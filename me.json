@@ -23,7 +23,7 @@
 	"organization": {
 		"title": "Infogain",
 		"url": "https://www.infogain.com/",
-		"designation": "Tecnology Lead"
+		"designation": "Technology Lead"
 	},
 	"totalExperience": 10,
 	"greet": "My name is Hidayt, I am a senior front-end developer, and I have {{%totalExperience%}}+ years of experience.",
