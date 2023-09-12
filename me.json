@@ -131,21 +131,28 @@
 			"url": ""
 		}
 	],
-	"categories": [
-		"UI/UX",
-		"Tech Lead",
-		"UI Architect",
-		"MERN Stack",
-		"Github Actions",
-		"Integrations",
-		"Unit Testing",
-		"Open Source",
-		"Provide Training",
-		"REST API",
-		"Design System Library",
 
-		"CI & CD"
-	],
+	"categories": {
+		"title": "Hire me!",
+		"props": {
+			"width": "fullWidth"
+		},
+		"list": [
+			"UI/UX",
+			"Tech Lead",
+			"UI Architect",
+			"MERN Stack",
+			"Github Actions",
+			"Integrations",
+			"Unit Testing",
+			"Open Source",
+			"Provide Training",
+			"REST API",
+			"Design System Library",
+
+			"CI & CD"
+		]
+	},
 	"skills": {
 		"primary": [
 			{
@@ -298,13 +305,13 @@
 	"meta": {
 		"greetings": ["Good morning ☀️", "Good afternoon 🌤", "Good evening ⛅"],
 		"weekdaysQuotes": [
-			"Everyone wants me to be a morning person. I could be one, only if morning began after noon, Its Sunday!",
-			"Be a rebel – enjoy Monday. Find a reason to like it.",
-			"Tuesday is the day I actually start the week, Monday I just deal with the depression of the weekend ending.",
-			"Dear Wednesday, no one likes you. You’re just the ugly cousin of Monday.  – Titteey",
-			"Good morning, Thursday! Let’s make today so productive that we can afford to be lazy tomorrow",
-			"Work starts on Monday. Life begins on Friday.",
-			"I wish that every day was Saturday and every month was October."
+			"☻ Everyone wants me to be a morning person. I could be one, only if morning began after noon, Its Sunday!",
+			"☻ Be a rebel – enjoy Monday. Find a reason to like it.",
+			"☻ Tuesday is the day I actually start the week, Monday I just deal with the depression of the weekend ending. ◡̈",
+			"☻ Dear Wednesday, no one likes you. You’re just the ugly cousin of Monday.  – Titteey",
+			"☻ Good morning, Thursday! Let’s make today so productive that we can afford to be lazy tomorrow",
+			"☻ Work starts on Monday. Life begins on Friday.",
+			"☻ I wish that every day was Saturday and every month was October."
 		],
 		"story": {
 			"enabled": true,
@@ -332,7 +339,7 @@
 						}
 					],
 					"style": {
-						"background": "yellow",
+						"background": "#c3c3c3",
 						"fontSize": "15px"
 					}
 				},
