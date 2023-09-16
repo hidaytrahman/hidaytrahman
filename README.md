@@ -83,21 +83,27 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 
 <h2>Open Source Projects</h2>
 <div style="display:flex; flex-wrap=wrap">
+  <p>
+    <a href=" https://github.com/hidaytrahman/camcheckmate">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=camcheckmate&show_owner=True" alt="camcheckmate" />
+    </a>
+  </p>
+  
   <p style="margin-right: 5px">
-    <a href="https://github.com/hidaytrahman/rezume" style="width: 100%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=rezume&show_owner=True" alt="GitHub Stats" />
+    <a href="https://github.com/hidaytrahman/react-carbonui">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=react-carbonui&show_owner=True" alt="react-carbonui" />
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/hidaytrahman/expenseSpy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=expenseSpy&show_owner=True" alt="expenseSpy />
+    <a href="https://github.com/hidaytrahman/preapi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=preapi&show_owner=True" alt="preapi />
     </a>
   </p>
 
    <p style="margin-right: 5px">
-    <a href="https://github.com/hidaytrahman/hotdom">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=hotdom&show_owner=True" alt="hotdom" />
+    <a href="https://github.com/hidaytrahman/chepo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=chepo&show_owner=True" alt="chepo" />
     </a>
   </p>
 
@@ -106,6 +112,7 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=sassKickstart&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
+
 </div>
 
 <br />
@@ -128,7 +135,6 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 
 <br />
 
-
 <br />
 
 <h2>📫 How to reach me:</h2>
@@ -136,6 +142,7 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <p>I'm almost everywhere. </p>
 
  Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
  
 - Read Articles on [Dev.to](https://dev.to/hidaytrahman)
 - Say Hi on [Skype](skype:live:hidaytrahman?cal)
