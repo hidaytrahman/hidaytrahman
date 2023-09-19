@@ -13,9 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hidayt Rahman | Bio Banner](banner.png)
+![Hidayt Rahman | Bio Banner](banner-transparent.png)
 
 <h2>I'm Hidayt Rahman! 👋</h2>
+
+```js
+const profile = {
+  name: "Hidayt Rahman",
+  bio: "My name is Hidayt, I am a senior front-end developer, and I have 10+ years of experience.",
+  skills: {
+     frontend: ["React", "JavaScript",  "TypeScript", "SCSS"],
+     backend: ["Node",  "MongoDB", "REST API"],
+     framework: ["NextJS", "ExpressJS", "Angular", "Bootstrap", "TailwindCSS", "MUI"],
+     tools: ["Github", "JIRA", "CI & CD", "Figma", "Photoshop", "XCode", "NPM", "yarn", "Postman", "GCP", "Github Actions"],
+     os: ["macOS", "Windows", "Linux"],
+     hobbies: [</>💻, 📷, 🧳, ]
+  }
+}
+```
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman) [![GitHub followers](https://img.shields.io/github/followers/hidaytrahman.svg?style=social&label=Follow)](https://github.com/hidaytrahman?tab=followers)
 
@@ -27,13 +42,13 @@ Specially ! JavaScript (ES6), React, SASS , NodeJS, ExpressJS with MongoDB</h3>
 style="background: #24292e; padding: 5px 15px; color: #fff; border-radius: 5px;margin: 10px 0; display: inline-block"
 href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 
-
 <br />
 <br />
 
 ### 🛠 &nbsp;Tech Stack
 
 #### &nbsp; Frontend
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=StyledComponents&logoColor=563D7C)
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
@@ -42,6 +57,7 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 ![LESS](https://img.shields.io/badge/-LESS-05122A?style=flat&logo=less)&nbsp;
 
 #### &nbsp; FE Frameworks and Libraries
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -50,14 +66,15 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 
 #### &nbsp; Backend
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![REST](https://img.shields.io/badge/-RESTAPI-05122A?style=flat&logo=Rest)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=Mongoose)&nbsp;
 
-
 #### &nbsp; Tools
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
@@ -74,12 +91,12 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 #### &nbsp; Other
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
-
 
 <h2>Open Source Projects</h2>
 <div style="display:flex; flex-wrap=wrap">
@@ -125,11 +142,16 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hidaytrahman" alt="GitHub Stats" /> <br/><br/>
 </p>
+
   <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true)](https://github.com/hidaytrahman/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true)](https://github.com/hidaytrahman/github-readme-stats)
 
 </div>
+
+  <div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true)](https://github-readme-stats.vercel.app/api/wakatime?username=hidaytrahman)
 
 </div>
 
@@ -141,11 +163,8 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <hr />
 <p>I'm almost everywhere. </p>
 
- Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
- 
-- Read Articles on [Dev.to](https://dev.to/hidaytrahman)
-- Say Hi on [Skype](skype:live:hidaytrahman?cal)
-- Also available on [Twitter](https://twitter.com/hidaytrahman) , [StackOverflow](https://stackoverflow.com/users/2927228/hidayt-rahman) , [Instagram](http://instagram.com/hidaytrahman)
-
-
+-   Read Articles on [Dev.to](https://dev.to/hidaytrahman)
+-   Say Hi on [Skype](skype:live:hidaytrahman?cal)
+-   Also available on [Twitter](https://twitter.com/hidaytrahman) , [StackOverflow](https://stackoverflow.com/users/2927228/hidayt-rahman) , [Instagram](http://instagram.com/hidaytrahman)
