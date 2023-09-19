@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hidayt Rahman | Bio Banner](banner-transparent.png)
+
+<h2>I'm Hidayt Rahman! 👋</h2>
+
 ```js
 const profile = {
   name: "Hidayt Rahman",
@@ -27,10 +31,6 @@ const profile = {
   }
 }
 ```
-
-![Hidayt Rahman | Bio Banner](banner-transparent.png)
-
-<h2>I'm Hidayt Rahman! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman) [![GitHub followers](https://img.shields.io/github/followers/hidaytrahman.svg?style=social&label=Follow)](https://github.com/hidaytrahman?tab=followers)
 
