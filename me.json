@@ -148,7 +148,6 @@
 			"Provide Training",
 			"REST API",
 			"Design System Library",
-
 			"CI & CD"
 		]
 	},
@@ -191,6 +190,9 @@
 			},
 			{
 				"title": "Figma",
+				"badge": "ddd"
+			},{
+				"title": "NestJS",
 				"badge": "ddd"
 			},
 			{
@@ -348,8 +350,8 @@
 					"text": "Code environment basic and required setup for your project or new machine",
 					"actions": [
 						{
-							"title": "Acess Repo",
-							"url": "https://github.com/hidaytrahman/code-env",
+							"title": "Check Live",
+							"url": "https://codeeng.vercel.app/",
 							"buttonProps": {
 								"size": "xlarge"
 							}
