@@ -20,17 +20,26 @@ Here are some ideas to get you started:
 ```js
 const profile = {
   name: "Hidayt Rahman",
-  bio: "My name is Hidayt, I am a senior front-end developer, and I have 10+ years of experience.",
+  bio: "I am a Senior front-end / MERN stack developer, and I have 10+ years of experience.",
   skills: {
      frontend: ["React", "JavaScript",  "TypeScript", "SCSS"],
-     backend: ["Node",  "MongoDB", "REST API"],
+     backend: ["Node", "NestJS",  "MongoDB", "REST API"],
      framework: ["NextJS", "ExpressJS", "Angular", "Bootstrap", "TailwindCSS", "MUI"],
-     tools: ["Github", "JIRA", "CI & CD", "Figma", "Photoshop", "XCode", "NPM", "yarn", "Postman", "GCP", "Github Actions"],
+     architectures: [
+      "Monolithic Architecture",
+      "Modular Architecture",
+      "Component-Based Architecture",
+      "Single Page Application - SPA",
+      "BFF Pattern - Backend for front-end"
+
+     ],
+     tools: ["Github", "Jira", "CI & CD", "Figma", "Photoshop", "XCode", "NPM", "Yarn", "Postman", "GCP", "Github Actions", "Rest Clients"],
      os: ["macOS", "Windows", "Linux"],
-     hobbies: [</>💻, 📷, 🧳, ]
+     hobbies: [</> 💻, 📷, 🧳, ]
   }
 }
 ```
+
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman) [![GitHub followers](https://img.shields.io/github/followers/hidaytrahman.svg?style=social&label=Follow)](https://github.com/hidaytrahman?tab=followers)
 
@@ -43,6 +52,11 @@ style="background: #24292e; padding: 5px 15px; color: #fff; border-radius: 5px;m
 href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 
 <br />
+
+📊 **Stat:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 
 ### 🛠 &nbsp;Tech Stack
@@ -98,39 +112,6 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
-<h2>Open Source Projects</h2>
-<div style="display:flex; flex-wrap=wrap">
-  <p>
-    <a href=" https://github.com/hidaytrahman/camcheckmate">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=camcheckmate&show_owner=True" alt="camcheckmate" />
-    </a>
-  </p>
-  
-  <p style="margin-right: 5px">
-    <a href="https://github.com/hidaytrahman/react-carbonui">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=react-carbonui&show_owner=True" alt="react-carbonui" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/hidaytrahman/preapi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=preapi&show_owner=True" alt="preapi />
-    </a>
-  </p>
-
-   <p style="margin-right: 5px">
-    <a href="https://github.com/hidaytrahman/chepo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=chepo&show_owner=True" alt="chepo" />
-    </a>
-  </p>
-
-   <p style="margin-right: 5px">
-    <a href="https://github.com/hidaytrahman/sassKickstart">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidaytrahman&repo=sassKickstart&show_owner=True" alt="GitHub Stats" />
-    </a>
-  </p>
-
-</div>
 
 <br />
 <br />
