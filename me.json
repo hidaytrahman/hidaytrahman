@@ -19,11 +19,11 @@
 		"maritalStatus": "unmarried",
 		"hobbies": ["Photography", "Coding", "Travelling"]
 	},
-	"designation": "Technology Lead",
+	"designation": "Software Engineer IV | Tech Lead",
 	"organization": {
-		"title": "Infogain",
-		"url": "https://www.infogain.com/",
-		"designation": "Technology Lead"
+		"title": "NCR Voyix",
+		"url": "https://www.ncrvoyix.com/",
+		"designation": "Software Engineer IV"
 	},
 	"totalExperience": 10,
 	"greet": "My name is Hidayt, I am a senior front-end developer, and I have {{%totalExperience%}}+ years of experience.",
@@ -38,13 +38,22 @@
 	],
 	"professional": [
 		{
+			"designation": "Software Engineer IV",
+			"organization": "NCR Voyix",
+			"joiningDate": "03 Jun 2024",
+			"lastWorkingDay": "",
+			"location": "Remote",
+			"mode": "WFH",
+			"text": "Working on digital banking projects leading a team"
+		},
+		{
 			"designation": "TECHNOLOGY LEAD",
 			"organization": "Infogain India Pvt Ltd",
 			"joiningDate": "13 FEB 2023",
-			"lastWorkingDay": "",
+			"lastWorkingDay": "31 May 2024",
 			"location": "Noida",
 			"mode": "WFH",
-			"text": "Currently working for NCR corporation on Money Movement Bill Pay Project."
+			"text": "Currently working for NCR corporation on Money Movement Bill Pay Projects."
 		}
 	],
 	"awards": [
@@ -99,7 +108,7 @@
 		]
 	},
 	"fav_repos": ["preapi", "react-flex-styled", "penless-todo", "sassKickstart", "hotdom", "expenseSpy"],
-	"domains": "eCommerce,Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
+	"domains": "eCommerce, Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
 	"quotes": ["I love coding, photography, and traveling."],
 	"socials": [
 		{
@@ -164,6 +173,9 @@
 				"title": "NextJS"
 			},
 			{
+				"title": "NestJS"
+			},
+			{
 				"title": "Typescript"
 			},
 			{
@@ -190,9 +202,6 @@
 			},
 			{
 				"title": "Figma",
-				"badge": "ddd"
-			},{
-				"title": "NestJS",
 				"badge": "ddd"
 			},
 			{
@@ -254,19 +263,19 @@
 			},
 			{
 				"title": "ExpressJS",
-				"badge": "ddd"
+				"badge": "expressjs"
 			},
 			{
 				"title": "Material UI",
-				"badge": "ddd"
+				"badge": "mui"
 			},
 			{
 				"title": "Angular",
-				"badge": "ddd"
+				"badge": "angular"
 			},
 			{
 				"title": "Bootstrap",
-				"badge": "ddd"
+				"badge": "bootstrap"
 			}
 		],
 		"tools": [
@@ -287,7 +296,7 @@
 			},
 			{
 				"title": "docker",
-				"badge": "ddd"
+				"badge": "docker"
 			},
 			{
 				"title": "CI / CD"
