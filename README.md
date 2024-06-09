@@ -58,7 +58,10 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         7 mins          ████████████████░░░░░░░░░   64.09 %
+JavaScript   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.32 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
