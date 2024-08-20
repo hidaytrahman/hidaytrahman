@@ -58,11 +58,11 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         1 hr 14 mins    █████████▒░░░░░░░░░░░░░░░   37.44 %
-JavaScript         55 mins         ███████░░░░░░░░░░░░░░░░░░   27.89 %
-Markdown           30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-JSON               19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-YAML               7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TypeScript         2 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.29 %
+JavaScript         55 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+Markdown           33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+JSON               21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+YAML               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
