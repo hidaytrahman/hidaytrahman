@@ -53,7 +53,7 @@
 			"lastWorkingDay": "31 May 2024",
 			"location": "Noida",
 			"mode": "WFH",
-			"text": "Currently working for NCR corporation on Money Movement Bill Pay Projects."
+			"text": "Currently working for NCR Corporation on Money Movement Bill Pay Projects."
 		}
 	],
 	"awards": [
@@ -354,20 +354,20 @@
 					}
 				},
 				{
-					"title": "Working on a platform to get the list of setup for the new machine... :)",
+					"title": "Save your time with Chepo",
 					"emoji": "👨🏼‍💻",
-					"text": "Code environment basic and required setup for your project or new machine",
+					"text": "Easiest way to get mock data",
 					"actions": [
 						{
 							"title": "Check Live",
-							"url": "https://codeeng.vercel.app/",
+							"url": "https://hidaytrahman.github.io/chepo/",
 							"buttonProps": {
 								"size": "xlarge"
 							}
 						}
 					],
 					"style": {
-						"background": "#009688",
+						"background": "#000",
 						"color": "#ffff"
 					}
 				}
