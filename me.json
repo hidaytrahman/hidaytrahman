@@ -25,7 +25,7 @@
 		"url": "https://www.ncrvoyix.com/",
 		"designation": "Software Engineer IV"
 	},
-	"totalExperience": 10,
+	"totalExperience": 11,
 	"greet": "My name is Hidayt, I am a senior front-end developer, and I have {{%totalExperience%}}+ years of experience.",
 	"location": "Delhi, IND",
 	"education": [
@@ -107,7 +107,7 @@
 			"Worked on CMS with custom templates development HTML to WordPress"
 		]
 	},
-	"fav_repos": ["preapi", "react-flex-styled", "penless-todo", "sassKickstart", "hotdom", "expenseSpy"],
+	"fav_repos": ["chepo", "template-rtw", "codeeng"],
 	"domains": "eCommerce, Telecom, Tours and travels, Security and Digital Banking, Healthcare, Construction, Tools / SPA",
 	"quotes": ["I love coding, photography, and traveling."],
 	"socials": [
@@ -329,7 +329,7 @@
 			"modes": ["story", "live"],
 			"config": {
 				"styles": {
-					"background": "pink",
+					"background": "#ccc",
 					"padding": 20
 				}
 			},
